@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
-import 'screens/gif_screen.dart';
 
 const API_KEY = 'p2xhiAOGkLfkIifRmotiHKPTHZG5TKXA';
 
